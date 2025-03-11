@@ -1,0 +1,20 @@
+li.main{
+    display: inline;
+    color: green ;
+}
+
+body{
+    background: rgb(194, 163, 116);
+}
+
+h1{
+    font-size: xx-large;
+    color: red;
+}
+
+a{
+    
+    padding: 6px;
+    background-color: aqua;
+    text-decoration: none;
+}
